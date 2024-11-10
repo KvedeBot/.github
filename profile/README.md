@@ -11,5 +11,3 @@ To start using Kvede, add [KvedeBot](https://t.me/KvedeBot) to your Telegram gro
 - Support: https://t.me/KvedeSupport
 - Spam Feed: https://t.me/KasFeed, https://kas.kvede.com
 - Website: https://kvede.com (In development)
-
-<img src="https://kvede.com/images/logotype.svg" width="256px" />
