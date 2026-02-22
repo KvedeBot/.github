@@ -7,7 +7,6 @@ The project is currently in active beta development and is absolutely free for e
 To start using Kvede, add [@KvedeBot](https://t.me/KvedeBot) to your Telegram groups and grant admin rights to delete messages and block users. At the moment, this is more than enough for it to work.
 
 - Kvede Bot: https://t.me/KvedeBot
-- News: https://t.me/KvedeNews
-- Support: https://t.me/KvedeSupport
-- Spam Feed: https://t.me/KasFeed, https://kas.kvede.com
+- News, Discussion, Support: https://t.me/KvedeLife
+- Spam Feed: https://kas.kvede.com
 - Website: https://kvede.com
